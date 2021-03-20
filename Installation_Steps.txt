@@ -1,0 +1,7 @@
+1) Extract the zipped file.
+2) Copy the folder drupal-8.9.13 into root directory
+3) Create the database name called "ecommerce" in mysql Server
+4) Use databae dump 'ecommerce' which is available inside drupal-8.9.13/db and Import the database dump.
+5) Please make sure you have created vhost entry in your vhost file. 
+6) Browse the url like http://<domain_name>
+7) Site will work as expected. 
